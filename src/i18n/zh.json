@@ -16,12 +16,12 @@
     "DESCRIPTION": "Acerca de DESCRIPCIÓN"
   },
   "NAVBAR": {
-    "PROJECTS": "项目",
-    "ARTICLES": "Articles",
-    "BOOKSMARKS": "书签",
-    "EDUCATION_HUB": "Education Hub",
-    "FUN_HOBBIES": "Fun Hobbies",
-    "SHOP_NOW": "Shop Now"
+    "PROJECTS": "Projects",
+    "EDUCATION_HUB": "Posts",
+    "BOOKSMARKS": "BooksMarks",
+    "FUN_HOBBIES": "About Me",
+    "ARTICLES": "Test",
+    "SHOP_NOW": "Test"
   },
   "PROJECTS": {
     "empty": {
