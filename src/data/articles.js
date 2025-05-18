@@ -1,6 +1,6 @@
 export const cardsData = [
   {
-    id: "doc-1",
+    id: "card-1",
     url: "www.medium.com",
     href: "https://medium.com/article-1",
     title: "Lorem ipsum dolor sit amet consectetur. Nec nibh vehicula.",
