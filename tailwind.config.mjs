@@ -19,20 +19,21 @@ export default {
 
 			},
 			colors: {
-				'hub-background': '#FFFFFF',
-				'hub-border': '#EDEDED',
-				'hub-title': '#121020',
-				'hub-subtitle': '#888888',
-				'hub-background-nav': '#FAFAFA',
-				'hub-inactive': '#B0B0B0',
-				'hub-text': '#FFFFFF',
-				'icons': '#6E6E6E',
+				'hub-background': '#FFFFFF',       // #FFFFFF
+				'hub-border': '#EDEDED',           // #EDEDED 边界
+				'hub-title': '#0000ff',            // #121020 标题
+				'hub-subtitle': '#121020',         // #888888 字幕
+				'hub-background-nav': '#FAFAFA',   // #fafafa   背景导航
+				'hub-inactive': '#B0B0B0',         // #B0B0B0 不活跃的
+				'hub-text': '#FFFFFF',             // #FFFFFF
+				'icons': '#6E6E6E',                // #6E6E6E 
+				
 				// dark
-				'hub-background-dark': '#101419',
-				'hub-border-dark': '#052B2E',
-				'hub-title-dark': '#FFFFFF',
-				'hub-subtitle-dark': '#999999',
-				'hub-background-nav-dark': '#080C11',
+				'hub-background-dark': '#101419',      // #101419
+				'hub-border-dark': '#052B2E',          // #052B2E
+				'hub-title-dark': '#8a2be2',           // #FFFFFF 标题
+				'hub-subtitle-dark': '#999999',        // #999999
+				'hub-background-nav-dark': '#080C11',  // #080C11
 
 
 			},
