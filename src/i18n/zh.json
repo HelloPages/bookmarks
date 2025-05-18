@@ -16,9 +16,9 @@
     "DESCRIPTION": "Acerca de DESCRIPCIÓN"
   },
   "NAVBAR": {
-    "PROJECTS": "Projectos",
-    "ARTICLES": "Articles",
-    "BOOKSMARKS": "Marcadores",
+    "PROJECTS": "项目",
+    "ARTICLES": "文章",
+    "BOOKSMARKS": "书签",
     "EDUCATION_HUB": "Hub Educativo",
     "FUN_HOBBIES": "Pasatiempos",
     "SHOP_NOW": "Comprar Ahora"
