@@ -10,17 +10,17 @@ export const cardsData = [
     className: "custom-card-class",
     isNew: true
   },
-  // {
-  //   id: "card-2",
-  //   url: "justcoddev.com",
-  //   href: "https://portfolio.justcoddev.com",
-  //   title: "My Portfolio",
-  //   subtitle: "portfolio.justcoddev.com",
-  //   imageSrc: "/img/avatar.png",
-  //   imageAlt: "Portfolio image",
-  //   className: "custom-card-class-2",
-  //   isNew: false
-  // },
+   {
+     id: "card-2",
+     url: "justcoddev.com",
+     href: "https://portfolio.justcoddev.com",
+     title: "My Portfolio",
+     subtitle: "portfolio.justcoddev.com",
+     imageSrc: "/img/avatar.png",
+     imageAlt: "Portfolio image",
+     className: "custom-card-class-2",
+     isNew: false
+   },
   // {
   //   id: "card-3",
   //   url: "creativex.io",
