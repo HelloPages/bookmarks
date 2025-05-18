@@ -10,6 +10,8 @@ src/data   Nav js
 /src/i18n  中文 英文 
 
 src/components/Navbar.astro    导航
+
+src/i18n/zh.json      导航
  
 ## Description
 
