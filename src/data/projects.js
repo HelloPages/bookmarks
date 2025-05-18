@@ -5,7 +5,7 @@ export const cardsData = [
     href: "https://valoraprime.vercel.app/",
     title: "Valora Prime",
     subtitle: "valoraprime.justcoddev.com",
-    imageSrc: "/img/projects/valoraprime.png",
+    imageSrc: "/img/avatar.png",
     imageAlt: "App icon",
     className: "custom-card-class",
     isNew: true
@@ -16,7 +16,7 @@ export const cardsData = [
   //   href: "https://portfolio.justcoddev.com",
   //   title: "My Portfolio",
   //   subtitle: "portfolio.justcoddev.com",
-  //   imageSrc: "/img/notion/white/my-notion-face-transparent.png",
+  //   imageSrc: "/img/avatar.png",
   //   imageAlt: "Portfolio image",
   //   className: "custom-card-class-2",
   //   isNew: false
