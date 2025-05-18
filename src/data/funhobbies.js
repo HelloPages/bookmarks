@@ -8,8 +8,7 @@ export const cardsData = [
     imageSrc: "/img/avatar.png",
     imageAlt: "Ícono del aplicativo",
 
-  }
-  
+  } 
  {
     id: "doc-2",
     url: "www.faces.notion.com",
