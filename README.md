@@ -9,6 +9,8 @@ src/data   Nav js
 
 /src/i18n  中文 英文 
 
+src/components/Navbar.astro    导航
+ 
 ## Description
 
 Personal Hub is a template designed to centralize and organize personal or professional information in one place. This tool allows users to manage and access their data, projects, important links, and more, all from a unified interface.
