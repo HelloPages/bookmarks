@@ -9,7 +9,8 @@ export const cardsData = [
     imageAlt: "Ícono del aplicativo",
 
   }
-{
+  
+ {
     id: "doc-2",
     url: "www.faces.notion.com",
     href: "https://faces.notion.com/",
