@@ -9,6 +9,7 @@ export const cardsData = [
     imageAlt: "App icon",
     className: "custom-card-class",
     isNew: true
+    
   },
    {
      id: "card-2",
@@ -20,6 +21,7 @@ export const cardsData = [
      imageAlt: "Portfolio image",
      className: "custom-card-class-2",
      isNew: false
+     
    },
   // {
   //   id: "card-3",
