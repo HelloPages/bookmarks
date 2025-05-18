@@ -11,7 +11,7 @@ export const getI18N = (
   { currentLocale = 'zh' }:
     { currentLocale: string | undefined; }
 ) => {
-  if (currentLocale === LANG.china) return china
+  if (currentLocale === LANG.china) return ZH-CN
   if (currentLocale === LANG.ENGLISH) return english
   return spanish;
 };
