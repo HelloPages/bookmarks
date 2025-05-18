@@ -9,14 +9,4 @@ export const cardsData = [
     imageAlt: "Ícono del aplicativo",
 
   } 
- {
-    id: "doc-2",
-    url: "faces.notion.com",
-    href: "https://faces.notion.com",
-    title: "Facesa",
-    subtitle: "New year, new you. Create a custom self-portrait in Notion, the workspace shaped by you.",
-    imageSrc: "/img/avatar.png",
-    imageAlt: "Ícono del aplicativoa",
-
-  }
 ];
