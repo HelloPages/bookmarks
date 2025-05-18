@@ -5,7 +5,7 @@ export const cardsData = [
     href: "https://fullstackopen.com/",
     title: "Full stack open",
     subtitle: "Open online course on JavaScript based modern web development by University of Helsinki and Houston Inc..",
-    imageSrc: "/img/notion/white/my-notion-face-transparent_16.png",
+    imageSrc: "/img/avatar.png",
     imageAlt: "Ícono del aplicativo",
 
   },
