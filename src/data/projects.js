@@ -13,10 +13,10 @@ export const cardsData = [
   },
    {
      id: "card-2",
-     url: "justcoddev.com",
-     href: "https://portfolio.justcoddev.com",
+     url: "justcoddevs.com",
+     href: "https://portfolio.justcoddevs.com",
      title: "My Portfolio",
-     subtitle: "portfolio.justcoddev.com",
+     subtitle: "portfolio.justcoddevs.com",
      imageSrc: "/img/avatar.png",
      imageAlt: "Portfolio image",
      className: "custom-card-class-2",
