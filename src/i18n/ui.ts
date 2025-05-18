@@ -1,19 +1,18 @@
-
 export const languages = {
-  zh: 'china',
   en: 'English',
+  es: 'Español',
 };
 
-export const defaultLang = 'zh';
+export const defaultLang = 'en';
 export const showDefaultLang = false;
 
 export const ui = {
-  zh: {
+  en: {
     'nav.index': 'Home',
     'nav.about': 'About',
     'nav.404': '404-Not-Found',
   },
-  en: {
+  es: {
     'nav.index': 'Inicio',
     'nav.about': 'Acerca de',
     'nav.404': '404-No-Encontrado',
