@@ -12,6 +12,8 @@ src/data   Nav js
 src/components/Navbar.astro    导航
 
 src/i18n/zh.json      导航
+
+src/layouts/Layout.astro css 路径
  
 ## Description
 
